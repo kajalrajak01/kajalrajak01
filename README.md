@@ -1,6 +1,6 @@
 # Hi, I'm Kajal Rajak 👋
 
-### Aspiring Data Scientist
+### Aspiring Data Analyst 
 
 I am passionate about Data Analysis and continuously learning by building real-world projects.
 
